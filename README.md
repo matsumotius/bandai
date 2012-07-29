@@ -1,5 +1,5 @@
-# Bandai
-Bandai(番台) is tool to get a title of animation from a video file.
+# bandai
+bandai(番台) is a tool to get a title of animation from a video file.
 
 ## License 
 
