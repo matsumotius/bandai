@@ -6,3 +6,4 @@
 #define ERR_MSG_JSON_PARSE   "ERROR: failed to parse json\n"
 #define ERR_MSG_JSON_INVALID "ERROR: invalid data format\n"
 #define ERR_MSG_OPEN_FILE    "ERROR: failed to open file\n"
+#define ERR_MSG_OPEN_DIR     "ERROR: failed to open dir\n"

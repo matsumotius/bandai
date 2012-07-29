@@ -7,7 +7,7 @@ Opening bandai::service::Searcher::findByFull(const char *filename)
 
   if (NULL==(dir=opendir(OP_DATA_PATH)))
   {
-    throw "failed to open dir\n";
+    throw ERR_MSG_OPEN_DIR;
   }
 
   Reader reader;
