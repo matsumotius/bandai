@@ -1,0 +1,8 @@
+*.swp
+bandai
+raw/op/*
+raw/full/*
+data/op/*
+data/full/*
+src/conf/config.hpp
+video/*.mp4
